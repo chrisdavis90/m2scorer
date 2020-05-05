@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # This file is part of the NUS M2 scorer.
 # The NUS M2 scorer is free software: you can redistribute it and/or modify
